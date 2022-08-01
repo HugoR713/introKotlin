@@ -1,4 +1,4 @@
 # intro Kotlin
 Basico de Kotlin
 
-Comandos básicos no kotlin
+Comandos ba  sicos no kotlin
